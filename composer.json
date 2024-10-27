@@ -1,11 +1,11 @@
 {
-    "name": "risetechapps/form-request",
+    "name": "risetechapps/erp-api-form-request",
     "description": "Package Form Request",
     "keywords": [
         "risetech",
         "form-request"
     ],
-    "homepage": "https://github.com/risetechapps/form-request",
+    "homepage": "https://github.com/risetechapps/erp-api-form-request",
     "license": "MIT",
     "type": "library",
     "authors": [
